@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is F23E-13DE
-
- Directory of C:\Users\Steven\Desktop\myproject
-
-07/21/2020  12:51 AM    <DIR>          .
-07/21/2020  12:51 AM    <DIR>          ..
-07/21/2020  12:51 AM                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  48,471,998,464 bytes free
+change 1
